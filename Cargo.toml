@@ -1,0 +1,8 @@
+[package]
+name = "sapphogram"
+version = "0.1.0"
+authors = ["Haley Owsianko <haley.owsianko@gmail.com>"]
+
+[dependencies]
+ring = "0.13"
+mio = "0.6"
